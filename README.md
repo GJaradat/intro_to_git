@@ -1,0 +1,1 @@
+<iframe width="100%" height="500px" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded ERD Lab IFrame" frameborder="0" src='https://app.erdlab.io/designer/schema/1709550418-moviereviews?embed=true'></iframe>
